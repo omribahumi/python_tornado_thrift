@@ -1,7 +1,7 @@
 python_tornado_thrift
 =====================
 
-Python Tornado serving Thrift HTTP requests.  
+Using Python Tornado to serve Thrift HTTP requests.  
 
 Project layout:  
 1. server.py - regular Thrift HTTP server  
